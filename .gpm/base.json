@@ -1,0 +1,8 @@
+{
+    "base_path": "/var/projects/buzz/buzz-intern-server/mailling/__libs__/services/mailchimp/.gpm/base.json",
+    "gpm_path": "/var/projects/buzz/buzz-intern-server/mailling/__libs__/services/mailchimp/.gpm",
+    "name": "dj-mailchimp",
+    "project_type": "module",
+    "repository_url": "https://github.com/px57/dj-mailchimp.git",
+    "root_path": "/var/projects/buzz/buzz-intern-server/mailling/__libs__/services/mailchimp"
+}

@@ -1,5 +1,7 @@
 
-class MailChimpService:
+
+
+class Service:
     def __init__(self):
         pass
 
@@ -8,14 +10,9 @@ class MailChimpService:
         The constructor method.
         """
     
-    def run(self):
+    def send_mail(self, *args, **kwargs):
         """
-        The run method.
+        Send mail method.
         """
-        return True
-    
-    def end(self):
-        """
-        The end method.
-        """
-        return True
+        print (args)
+        print (kwargs)
